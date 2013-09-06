@@ -5,6 +5,8 @@
  * @author Dan Boneh
  */
 
+var sjcl = require('sjcl');
+
 /** @namespace Arrays of bytes */
 module.exports = {
   /** Convert from a bitArray to an array of bytes. */

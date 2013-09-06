@@ -10,5 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": ""
+  "author": "",
+  "dependencies": {
+    "sjcl": "git://github.com/bitwiseshiftleft/sjcl.git#961316282a"
+  }
 }
